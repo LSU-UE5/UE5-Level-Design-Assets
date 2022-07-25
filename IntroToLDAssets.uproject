@@ -1,6 +1,5 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
@@ -19,9 +18,4 @@
 			"Enabled": true
 		}
 	]
-=======
-	"EngineAssociation": "4.26",
-	"Category": "",
-	"Description": ""
->>>>>>> d379fec30ad6ad7b4a7d0b0f94b3737e4c02f679
 }
